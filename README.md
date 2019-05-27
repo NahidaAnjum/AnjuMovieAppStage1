@@ -1,3 +1,3 @@
 ## Movies App Stage 2
 
-a udacity project
+in this app we will display trending movie posters and their details
