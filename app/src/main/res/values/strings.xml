@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnjuMovieAppStage1</string>
+    <string name="POPULAR">POPULAR</string>
+    <string name="TOP_RATED">TOP RATED</string>
+    <string name="Title">Title</string>
+    <string name="Date">Date</string>
+    <string name="Rating">Rating</string>
+    <string name="OverView">OverView</string>
+</resources>
